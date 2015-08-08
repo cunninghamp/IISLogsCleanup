@@ -1,5 +1,4 @@
-# IISLogsCleanup
-A PowerShell script to compress and archive IIS log files.
+# IISLogsCleanup.ps1 - A PowerShell script to compress and archive IIS log files.
 
 This script will check the folder that you specify, and any files older than the first day of the previous month will be compressed into a zip file. If you specify an archive path as well the zip file will be moved to that location.
 
