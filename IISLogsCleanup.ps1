@@ -47,16 +47,10 @@ Written by: Paul Cunningham
 
 Find me on:
 
-* My Blog:	http://paulcunningham.me
+* My Blog:	https://paulcunningham.me
 * Twitter:	https://twitter.com/paulcunningham
-* LinkedIn:	http://au.linkedin.com/in/cunninghamp/
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
-
-For more Exchange Server tips, tricks and news
-check out Exchange Server Pro.
-
-* Website:	http://exchangeserverpro.com
-* Twitter:	http://twitter.com/exchservpro
 
 Additional Credits:
 Filip Kasaj - http://ficility.net/2013/02/25/ps-2-0-remove-and-compress-iis-logs-automatically/
